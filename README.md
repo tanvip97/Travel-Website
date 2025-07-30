@@ -24,7 +24,7 @@ This is a simple static travel-themed website built using **HTML** and **CSS**. 
 
 ## 🔗 Live Demo
 
-[Click here to view the live website](https://yourusername.github.io/traveling-website)
+[Click here to view the live website](https://tanvip97.github.io/Travel-Website/)
 
 ## 🗂️ Project Structure
 
