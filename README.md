@@ -31,6 +31,8 @@ This is a simple static travel-themed website built using **HTML** and **CSS**. 
 ```
 traveling-website/
 ├── index.html
+├── travel.html
+├── list page.html
 ├── style.css
 └── images/
     └── (all the images used in the project)
